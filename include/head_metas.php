@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="assets/css/reset.css" type="text/css" >
 <link rel="stylesheet" href="assets/css/skeleton.css" type="text/css"/>
 <link rel="stylesheet" href="assets/css/layout.css" type="text/css" media="screen"/>
+
 <link rel="stylesheet" type="text/css" href="assets/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
 
 <link rel="shortcut icon" href="assets/ico/favicon.ico">
